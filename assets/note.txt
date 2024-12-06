@@ -1,0 +1,22 @@
+class bootstrap :
+align-items-center = untuk tengah secara vertikal
+align-items-start = untuk ke atas secara vertikal
+align-items-end = untuk kebawah secara vertikal
+
+fluid= untuk nyesuain sama device nya
+justify-content-center= horizontal tengah 
+d-flex; = mengubah posisi dari sebuah elemen (menjadi sejajar)
+row = baris
+
+margin
+ my = margin vertikal (atas bawah)
+ mx = margin horizontal (kanan kiri)
+ mt = margin top (atas)
+ mb = margin bottom (bawah)
+ ms = margin start (kiri)
+ me = margin end (kanan)
+ mx-auto= untuk memposisikan sebuah elemen HTML berada di tengah.
+
+ cara pakai= my-1, my-2, my-3, my-4, my-5
+ ukuran bootstrap 1-5,  kalau mau lebih bisa custom divanilla css
+ px = padding secara horizontal
